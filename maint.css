@@ -1,0 +1,30 @@
+html  {
+    font-size: 22px;
+}
+
+h1, h2, ul, li, figcaption, figure, a{
+    text-align: center;
+    list-style: none;
+}
+
+body  {
+background-color: wheat;
+color: #333;
+}
+a {
+    color: rgb(14, 13, 20);
+}
+a:visited {
+    color: rgb(76, 32, 236);
+}
+a:hover, a:active {
+    color: #cf1a1a;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    margin: auto;
+}
